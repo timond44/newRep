@@ -1,0 +1,45 @@
+table {
+    border-collapse: separate;
+    width: 65%;
+    background-color:#a5c9a5;
+  }
+  
+  th, td {
+    padding: 15px;
+    text-align: center;
+  }
+
+  td:hover {background-color:#ec2020;}
+  #btn {
+    background-color: #4CAF50; /* Green */
+    border: none;
+    color: white;
+    padding: 16px 32px;
+    text-align: center;
+    text-decoration: none;
+    display: inline-block;
+    font-size: 16px;
+    margin: 4px 2px;
+    transition-duration: 0.4s;
+    cursor: pointer;
+  }
+  #btn{
+    background-color:#8680ad;}
+  #btn:hover {
+        background-color: #4CAF50; /* Green */  
+      }
+      .button {
+        background-color: #91af4c; 
+        padding: 16px 32px; 
+        margin: 4px 2px;
+
+      }
+.button:hover {
+        background-color: #af4c54;  
+      }
+      .box {
+        border: 5px solid rgb(187, 110, 59);
+        width: 300px;
+        margin: 10%;
+        padding: 10%;
+      }
